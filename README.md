@@ -1,7 +1,7 @@
 # SuperPortfolio
 ポートフォリオWeb版をPagesで公開するリポジトリ
 
---- Clicker ---
+### --- Clicker ---
 ### 制作時間
 30分
 ### こだわり
