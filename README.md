@@ -1,7 +1,8 @@
 # SuperPortfolio
 ポートフォリオWeb版をPagesで公開するリポジトリ
 
-### テンプレ
+___________________
+###    テンプレ
 ### --- Clicker ---
 ### 制作時間
 30分
@@ -9,6 +10,7 @@
 ボタン、テキストの大きさを見やすく
 ### 操作方法
 ボタンクリックしまくり！
+___________________
 
 ### --- WebGL試 ---
 https://nekonokone.github.io/SuperPortfolio/Build/
