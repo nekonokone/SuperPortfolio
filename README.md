@@ -31,4 +31,4 @@ https://nekonokone.github.io/SuperPortfolio/cookiefun/
 https://nekonokone.github.io/SuperPortfolio/EscapeBuild/
 
 ### --- CatchTheMoment ---
-https://nekonokone.github.io/SuperPortfolio/Cacth_the_Build/
+https://nekonokone.github.io/SuperPortfolio/Catch_the_Build/
