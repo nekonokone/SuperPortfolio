@@ -32,3 +32,6 @@ https://nekonokone.github.io/SuperPortfolio/EscapeBuild/
 
 ### --- CatchTheMoment ---
 https://nekonokone.github.io/SuperPortfolio/Catch_the_Build/
+
+### --- RhythmGame ---
+https://nekonokone.github.io/SuperPortfolio/RhythmBuild/
