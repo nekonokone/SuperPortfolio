@@ -35,3 +35,6 @@ https://nekonokone.github.io/SuperPortfolio/Catch_the_Build/
 
 ### --- RhythmGame ---
 https://nekonokone.github.io/SuperPortfolio/RhythmBuild/
+
+### --- ShooootingGameee ---
+https://nekonokone.github.io/SuperPortfolio/ShootingBuild/
